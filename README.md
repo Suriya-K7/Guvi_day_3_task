@@ -4,8 +4,8 @@
 - create resume data in JSON format
 - difference b/w window, screen & document in JS
 
-## Created blog deployed on below link :
+## Created task deployed on below link :
 
 https://suriya-k7.github.io/Guvi_day_3_task/
 
-<h2 style="color:yellow;text-decoration:underline;">Note: Javascript files for all mentioned task stored in JS folder kindly check</h2>
+> <h2 style="color:yellow;text-decoration:underline;">Note: Javascript files for all mentioned task stored in JS folder kindly check</h2>
