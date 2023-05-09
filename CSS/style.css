@@ -67,6 +67,9 @@ ul{
 hr{
     margin: 10px 0;
 }
+#all{
+    margin-bottom: 70px;
+}
 nav{
     height: 50px;
     font-size: 16px;
@@ -102,7 +105,4 @@ nav a:hover{
 i.line{
     text-decoration: underline;
     color: yellow;
-}
-#dif{
-    margin-bottom: 60px;
 }
